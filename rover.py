@@ -7,6 +7,8 @@ import pantilthat
 # Camera Guide: Chapter 5, Page 28
 # sudo apt install python-picamera python3-picamera
 from picamera import PiCamera
+# OpenCV
+import cv2
 
 # Angular notes
 # Pan: -1 = clockwise
