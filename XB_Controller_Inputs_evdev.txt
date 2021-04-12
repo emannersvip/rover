@@ -32,5 +32,7 @@ L-ANA-DN - code:01,val:+
 R-ANA-LT - code:03,val:-
 R-ANA-RT - code:03,val:+
 R-ANA-UP - code:04,val:-
-R-ANA-DN - code:05,val:+
+R-ANA-DN - code:04,val:+
 #======================================
+
+
