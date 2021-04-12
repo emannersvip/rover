@@ -1,0 +1,36 @@
+==ecodes.EV_KEY==
+
+X - 307,BTN_NORTH,BTN_X
+Y - 308,BTN_WEST,BTN_Y
+A - 304,
+B - 305
+#
+BMP_L - 310
+BMP_R - 311
+#
+SEL - 314
+STRT - 315
+GUIDE - 316
+#
+LANA_CLICK - 317
+RANA_CLICK - 318
+
+==ecodes.EV_ABS==
+D-UP - code:17,type:03,val:-1
+D-DWN - code:17,type:03,val:01
+D-LFT - code:16,val:-1
+D-RGT - code:16,val:01
+#
+TRG_L - code:02,val:00-1023
+TRG_R - code:05,val:00-1023
+#
+L-ANA-LT - code:00,val:-
+L-ANA-RT - code:00,val:+
+L-ANA-UP - code:01,val:-
+L-ANA-DN - code:01,val:+
+..
+R-ANA-LT - code:03,val:-
+R-ANA-RT - code:03,val:+
+R-ANA-UP - code:04,val:-
+R-ANA-DN - code:05,val:+
+#======================================
